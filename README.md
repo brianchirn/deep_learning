@@ -1,6 +1,6 @@
 # DeepLearning
 
-01.deconstruction_trajectory.jpynb
+01.deconstruction_difference_asv_matrix.jpynb
 The script to establish deconstruction trajectories
 
 02.Kmeans_deconstruction.ipynb
